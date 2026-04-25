@@ -1,6 +1,7 @@
 # 💫 About Me:
-Desenvolvedor Python e Java (Backend) | Foco em Segurança e Infraestrutura
+**Backend Developer | Junior DevSecOps | Aspiring Pentester**
 
+Sou um desenvolvedor backend especializado em Python (FastAPI) e Java, com background em Engenharia de Sistemas e um foco intenso em segurança da informação.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murilo-santana-novais-4b4601236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murilonovais.dev@gmail.com) 
